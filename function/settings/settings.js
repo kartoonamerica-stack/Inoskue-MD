@@ -14,8 +14,8 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '212675617959',
- pairingNumber : '212675617959',
+ nomerbot : '212635538684',
+ pairingNumber : '212635538684',
  figlet: 'Inoskue BOT', // create a start console display
  nomorwa : '212675617959',
  nameown : 'mstapuh',
